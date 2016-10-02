@@ -1,0 +1,14 @@
+packages: [
+  "atom-autocomplete-php"
+  "color-picker"
+  "docblockr"
+  "drupal"
+  "emmet"
+  "linter"
+  "linter-eslint"
+  "linter-phpcs"
+  "linter-scss-lint"
+  "package-sync"
+  "php-twig"
+  "terminal-plus"
+]

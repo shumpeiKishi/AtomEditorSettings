@@ -1,0 +1,30 @@
+"*":
+  "atom-terminal": {}
+  core:
+    themes: [
+      "atom-dark-ui"
+      "one-dark-syntax"
+    ]
+  docblockr:
+    deep_indent: true
+    per_section_indent: true
+    short_primitives: true
+    spacer_between_sections: true
+  drupal:
+    fileTypesPhp: "module,install,inc,test"
+  editor:
+    invisibles: {}
+  emmet: {}
+  "exception-reporting":
+    userId: "dd0e08bb-1f2b-28e1-1f41-3f2d7befac13"
+  linter: {}
+  "linter-eslint":
+    disableWhenNoEslintConfig: false
+  "linter-phpcs":
+    codeStandardOrConfigFile: "Drupal"
+    tabWidth: 2
+  "package-sync":
+    createOnChange: true
+    forceOverwrite: true
+  welcome:
+    showOnStartup: false
